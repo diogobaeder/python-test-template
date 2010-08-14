@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tdaemon --custom-args="--with-notify"
+tdaemon --custom-args="--with-notify" test/
