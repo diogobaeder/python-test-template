@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tdaemon --custom-args="--with-notify --no-start-message" test/
+tdaemon --custom-args="--with-notify --no-start-message"
